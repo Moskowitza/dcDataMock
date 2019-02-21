@@ -1,0 +1,33 @@
+{
+  "name": "dcdatamock",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moskowitza/dcDataMock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moskowitza/dcDataMock/issues"
+  },
+  "homepage": "https://github.com/Moskowitza/dcDataMock#readme",
+  "dependencies": {
+    "crossfilter": "^1.3.12",
+    "crossfilter2": "^1.4.6",
+    "d3": "^5.9.1",
+    "dc": "^2.2.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/preset-env": "^7.3.1",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  },
+  "description": ""
+}
